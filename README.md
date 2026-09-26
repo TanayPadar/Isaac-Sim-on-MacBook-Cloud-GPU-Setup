@@ -2,6 +2,8 @@
 
 > **Created by Tanay**  
 > A practical, reproducible setup for learning and developing with NVIDIA Isaac Sim and Isaac Lab from a MacBook using a remote NVIDIA GPU.
+![Personal Website](https://tanayp.vercel.app)
+![LinkedIn](https://LinkedIn.com/in/tanaypadar)
 
 ![Platform](https://img.shields.io/badge/Platform-macOS-black)
 ![GPU](https://img.shields.io/badge/GPU-NVIDIA%20L40S-76B900)
